@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How do I declare a path parameter with a type in FastAPI?",
+    "expected_source": "tutorial/path-params.md"
+  },
+  {
+    "question": "How do I add numeric validation to a path parameter, like setting a minimum value?",
+    "expected_source": "tutorial/path-params-numeric-validations.md"
+  },
+  {
+    "question": "How do I run a function in the background after returning a response?",
+    "expected_source": "tutorial/background-tasks.md"
+  },
+  {
+    "question": "How do I add custom middleware to a FastAPI app?",
+    "expected_source": "tutorial/middleware.md"
+  },
+  {
+    "question": "How do I enable CORS in a FastAPI application?",
+    "expected_source": "tutorial/cors.md"
+  },
+  {
+    "question": "How do I implement OAuth2 login with JWT tokens?",
+    "expected_source": "tutorial/security/oauth2-jwt.md"
+  },
+  {
+    "question": "How do I create a dependency that other dependencies also depend on?",
+    "expected_source": "tutorial/dependencies/sub-dependencies.md"
+  },
+  {
+    "question": "How do I use a class as a dependency instead of a function?",
+    "expected_source": "tutorial/dependencies/classes-as-dependencies.md"
+  }
+]
